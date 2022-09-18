@@ -15,6 +15,7 @@ Plugin 'preservim/nerdtree'
 Plugin 'vimwiki/vimwiki'
 Plugin 'ap/vim-css-color'
 Plugin 'itchyny/lightline.vim'
+Plugin 'jreybert/vimagit'
 " All of your plugins must be added before the following line
 call vundle#end() "required 
 filetype plugin indent on "required
